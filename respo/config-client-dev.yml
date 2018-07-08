@@ -1,5 +1,5 @@
 
 server:
-  port: 8763
+  port: 8764
 
-foo: from GitHub ABC
+foo: from GitHub At 2018-07-08
